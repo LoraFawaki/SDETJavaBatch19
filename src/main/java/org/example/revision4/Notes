@@ -1,0 +1,65 @@
+Loops:
+  Loops help us repeat a block of code until condition is fails. There are 4 main types of loops in Java.
+
+  1- While Loop
+  2- Do While Loop
+  3- For Loop
+  4- Enhanced For Loop
+
+  While Loop:
+      When we don't know the number of iterations beforehand,while loop is the best
+      type of loop to use in the scenario - example: searching for a product from Amazon
+      when we use the while loop, we can keep clicking on the next button till we find it,
+      because while accepts boolean.
+
+  Do While Loop:
+     When we want to execute the body of the loop at least once before we check the condition
+     that is when we use Do While Loop.
+     Do While is best loop to use with Scanner.
+     used for forms as well.
+
+  For Loop:
+     For Loop is a better choice when we know the number of iteration in advance.
+     example: we want to print 10 numbers.
+        if I am searching a product on Amazon and I want to see ONLY the first 10 matching products.
+        if I am searching for a specific product with a specific price (Eyeliner for 20$)
+
+  Enhanced For Loop:
+     It is a simplified version of normal for loop where the elements are pulled from the array automatically
+     one by one. There is no index involved in this type of loop.
+     it is limited, can't be used to skip elements or reverse directions.
+     We should use it whenever possible.
+
+  Arrays:
+     Array is a collection of multiple variables. Every variable is given a number called (index) to help us retrieve
+     and store data inside the array.
+  Why should we use Arrays:
+     When we have a lot of data storing it inside variables, save time and resources
+
+   Syntax:
+   approach 1 (to create empty array):
+        DataType [] ArrayName= new DataType[size];
+        int [] number = new int[5]
+
+   approach 2 (when we know the variables):
+        DataType [] ArrayName={ element1, element2, element3, ......}
+        int [] numbers={10,20,30,40,....};
+
+   Nested Loops:
+      Nested Loop is a loop inside another loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

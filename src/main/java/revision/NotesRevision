@@ -1,0 +1,81 @@
+difference between print and println.
+what are variables?
+     Variables are like containers that we use to store data in our programs.
+What are Data Types?
+     DataTypes are used to store and identify different type of data in variables
+
+Type Casting:
+Type casting is moving the data from one data type to another.
+- when we move something from small data type to a larger data type it's called
+auto/widening/implicit
+- whe we move something from a bigger box to a smaller box, it is called
+manual/narrowing/explicit
+
+Data Types from smaller to large
+byte - short - int - long - float - double
+
+When should we use type casting?
+1- when we combine code from different
+sources we might need to perform type casting to
+make the code compatible (so we unify the data types for the program).
+
+Relational Operators:    we also discussed comparable, shorthand and arethmatic operators
+help us compare data.
+results will be either true or false.
+== if something is same results will be true
+!= not equal, not same results will be true
+> if value on left side is Greater than the value on the right side
+< if value on left side is lesser than the value on the right side
+>= Greater or equal, result will be true
+<= lesser or equal, result will be true
+
+If Statement:
+-if statements help s to execute the code conditionally.
+-without if conditions almost all the programs will be useless. They will not
+be able to take any decisions.
+-There are many variations of these statements.
+    - if statements
+    - if else statements
+    - else if statements
+    - nested if statements
+ (same problems can be solved in similar ways) (some commands can do the same job, but
+ using the correct code will make the coding shorter)
+ (some of the concepts make your programming easier if use a certain order)
+
+if Statement:
+    One Condition one action.
+if else statement:
+    One condition two actions.
+if else if statement:
+    multiple conditions, multiple actions. Only One outcome
+Nested if:
+    when one condition is dependent on another conditions, that is when we use nested if
+    when 2 conditions has to be true. Several outcomes
+    if you are 18 and you are 165cm you can have driving license
+
+ Scanner class:
+    It is a class that is already written by another developers. there are around 9000 classes that are
+    pre-written and we can use. Also there are Java libraries.
+    Is a class that help us to us take input data from the user from keyboard.
+
+    Classes are further divided into methods, each method can do something useful, example: nextInt(), nextBoolean(),
+    nextDouble().
+
+    Important Note:
+    Every class in java also acts as a data type. We can create variables of these classes.
+    If we want to reuse some codes from a class, we can create its objects and then we can start
+    calling those methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

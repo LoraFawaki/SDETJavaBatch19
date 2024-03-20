@@ -1,0 +1,20 @@
+String: "it is a text"
+String is a non-primitive data type that is used to store multiple characters in a variable.
+
+String Concatenation: "combining together"
+String concatenation allows us to join two strings together.
+Primitive data types starts with "lowercase" (byte)
+non-primitive data types starts with "Uppercase" (String)
++" "+ to add a space between strings.
+We create a Variable, when we need to reuse something multiple times.
+Computers can't see multiple things at a time. a Computer can see one instruction at a time,
+and it executes orders line by line.
+Once we Concatenate, One of the variables has to be a string. we can concatenate numbers(int or double)
+within one string.
+Ctrl+D will duplicate the line.
++ symbol use changes depending on the data type. if + is used with Strings or with different variable types which one is text,
+it will combine texts. if + is used with number data types "int, long, or double" it will perform an addition.
+ + symbol doesn't work with boolean.
+symbols are called "Operators" in Java.
+
+
